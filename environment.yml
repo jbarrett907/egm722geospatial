@@ -5,3 +5,6 @@ channels:
 dependencies:
   - python
   - geopandas
+  - pandas
+  - cartopy
+  - matplotlib
